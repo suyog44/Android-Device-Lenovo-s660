@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="aerr_application_lowmem">Kapasitas penyimpanan tablet penuh, aplikasi telah dihentikan. Kosongkan memori, lalu coba lagi.</string>  
+    <string name="aerr_process_lowmem">Kapasitas penyimpanan tablet penuh, proses telah dihentikan. Kosongkan memori, lalu coba lagi.</string> 
+    <string name="criticallowmessage">Penyimpanan perangkat penuh, hapus file yang tidak digunakan, atau aplikasi akan tertutup secara tiba-tiba</string>  
+
+    <string name="storage_withoutsd">Ruang penyimpanan ponsel tidak mencukupi. Lepas sejumlah penyimpanan atau masukkan kartu SD.</string>
+    <string name="storage_withsd">Ruang penyimpanan ponsel tidak mencukupi. Lepas sejumlah penyimpanan atau ubah disk penulisan default dalam pengaturan.</string>
+</resources>

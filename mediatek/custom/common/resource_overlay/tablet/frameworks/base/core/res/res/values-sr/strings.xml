@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permdesc_disableKeyguard">"Дозвољава апликацији да онемогући закључавање тастатуре и све повезане безбедносне мере са лозинкама. На пример, телефон онемогућава закључавање тастатуре при пријему долазног телефонског позива, а затим га поново омогућава по завршетку позива."</string>
+    <string name="wifi_p2p_frequency_conflict_message">"Телефон ће привремено прекинути везу са WLAN-јем док је повезан са уређајем <xliff:g id="DEVICE_NAME">%1$s</xliff:g>&quot;</string>
+</resources>

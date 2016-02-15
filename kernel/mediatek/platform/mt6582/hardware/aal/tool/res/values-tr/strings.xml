@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">AALTool</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="title_activity_lcm_calibration">AAL LCM Kalibrasyonu</string>
+    <string name="title_activity_als_calibration">AAL ALS Kalibrasyonu</string>
+    <string name="title_activity_tuning">AAL Ayarlama</string>
+    <string name="power">Güç Tasarrufu</string>
+    <string name="luminance">Parlaklık</string>
+    <string name="lux">Lüks</string>
+    <string name="save">Kaydet</string>
+    <string name="clear">"Temizle"</string>
+    <string name="brightness">Parlaklık</string>
+    <string name="darkening_speed">Koyulaştırma Hızı</string>
+    <string name="brightening_speed">Parlaklaştırma Hızı</string>
+    <string name="smartbacklight">Akıllı Arkaplan Işığı</string>
+    <string name="tolerance_ratio">Tolerans Oranı</string>
+    <string name="readability">Okunabilirlik</string>
+</resources>

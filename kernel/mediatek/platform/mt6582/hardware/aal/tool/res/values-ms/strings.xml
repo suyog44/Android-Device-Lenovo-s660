@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_settings">"Tetapan"</string>
+    <string name="power">Penjimatan Kuasa</string>
+    <string name="save">Simpan</string>
+    <string name="clear">"Pdm bersih"</string>
+    <string name="brightness">Kecerahan</string>
+</resources>

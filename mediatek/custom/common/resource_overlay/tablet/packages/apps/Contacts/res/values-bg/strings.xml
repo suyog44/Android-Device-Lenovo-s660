@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="generic_no_account_prompt">"Погрижете се за безопасността на контактите си, ако загубите своя телефон: синхронизирайте с онлайн услуга."</string>
+    <string name="phone_storage_full_create">Мястото за съхранение в %s е пълно, не можете да създадете нов контакт.</string>
+    <string name="phone_storage_full_edit">Мястото за съхранение в %s е пълно, не може да редактирате контакта.</string>
+    <string name="warning_detail">Асоциацията с %1$s ще импортира контакта в %3$s. Желаете ли да продължите асоциацията с %2$s?</string>
+</resources>

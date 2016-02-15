@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="generic_no_account_prompt">"Збережіть свої контакти на випадок втрати свого телефону: синхронізуйте їх з онлайновою службою."</string>
+    <string name="phone_storage_full_create">Пам\'ять цього пристрою заповнена. Неможливо створити новий контакт.</string>
+    <string name="phone_storage_full_edit">Пам\'ять цього пристрою заповнена. Редагування контакту неможливе.</string>
+    <string name="warning_detail">Якщо задати зв\'язок із SIM-картою, контакт буде імпортовано до пристрою. Задати зв\'язок із SIM-картою?</string>
+</resources>

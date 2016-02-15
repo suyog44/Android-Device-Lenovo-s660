@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Инструмент AAL</string>
+    <string name="menu_settings">Параметры</string>
+    <string name="title_activity_lcm_calibration">Калибровка AAL LCM</string>
+    <string name="title_activity_als_calibration">Калибровка AAL ALS</string>
+    <string name="title_activity_tuning">Настройка AAL</string>
+    <string name="power">Экономия энергии</string>
+    <string name="luminance">Яркость</string>
+    <string name="lux">Люкс</string>
+    <string name="save">Сохранить</string>
+    <string name="clear">"Очистить"</string>
+    <string name="brightness">Яркость</string>
+    <string name="darkening_speed">Скорость затемнения</string>
+    <string name="brightening_speed">Скорость осветления</string>
+    <string name="smartbacklight">Интеллектуальная подсветка</string>
+    <string name="tolerance_ratio">Коэффициент чувствительности</string>
+    <string name="readability">Четкость</string>
+</resources>

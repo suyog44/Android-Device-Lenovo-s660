@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_settings">การตั้งค่า</string>
+    <string name="power">ประหยัดพลังงาน</string>
+    <string name="save">บันทึก</string>
+    <string name="clear">ล้าง</string>
+    <string name="brightness">ความสว่าง</string>
+</resources>

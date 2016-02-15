@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<all-skus>
+    <sku name="CN">
+       <languagepack locale="en_US zh_CN"/>
+    </sku>
+    <sku name="DE">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="ES">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="IT">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="UK">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="RU">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="UA">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="TR">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="AT">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="BG">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="SRB">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="CZ">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="SE">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="IL">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="US">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="VE">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="CO">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="MX">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="CL">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="AR">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="AU">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="NZ">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="JP">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="TW">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="ID">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="MY">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="TH">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="HK">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="KR">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="LB">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="ZA">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="SG">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="IN">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="SA">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="NG">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+    <sku name="VN">
+       <languagepack locale="en_US ar_EG de_AT de_DE en_AU en_GB en_IN en_NZ en_SG en_ZA es_ES es_US it_IT iw_IL ja_JP ko_KR ru_RU zh_CN zh_TW"/>
+    </sku>
+<!--    <sku name="ASIA"> -->
+       <!-- example for language list -->
+<!--       <languagepack locale="en_US zh_TW zh_CN"/> -->
+<!--    </sku> -->
+<!--    <sku name="EMEA"> -->
+       <!-- example for disabled apk-->
+       <!--<disabled-packages name="com.google.android.a"/>
+       <disabled-packages name="com.google.android.b" />
+       <disabled-packages name="com.google.android.c" />-->
+       <!-- example for language list -->
+<!--       <languagepack locale="en_GB en_US fr_FR it_IT es_ES de_DE nl_NL cs_CZ pl_PL ru_RU nb_NO da_DK el_GR tr_TR pt_PT rm_CH sv_SE bg_BG ca_ES fi_FI hi_IN hr_HR hu_HU iw_IL lt_LT lv_LV ro_RO sk_SK sl_SI sr_RS uk_UA ar_EG fa_IR af_ZA zu_ZA zh_TW zh_CN es_US ko_KR pt_BR"/> -->
+<!--    </sku> -->
+</all-skus>
+

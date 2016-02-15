@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_settings">"Настройки"</string>
+    <string name="power">Икономия на енергия</string>
+    <string name="save">"Запазване"</string>
+    <string name="clear">"Изчистване"</string>
+    <string name="brightness">"Яркост"</string>
+</resources>

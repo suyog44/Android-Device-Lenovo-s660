@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">AALTool</string>
+    <string name="menu_settings">Valores</string>
+    <string name="title_activity_lcm_calibration">Calibración AAL LCM</string>
+    <string name="title_activity_als_calibration">Calibración AAL ALS</string>
+    <string name="title_activity_tuning">Sintonización AAL</string>
+    <string name="power">Ahorro de energía</string>
+    <string name="luminance">Luminancia</string>
+    <string name="lux">Lux</string>
+    <string name="save">Guardar</string>
+    <string name="clear">"Borrar"</string>
+    <string name="brightness">Brillo</string>
+    <string name="darkening_speed">Velocidad de oscurecimiento</string>
+    <string name="brightening_speed">Velocidad de iluminación</string>
+    <string name="smartbacklight">Luz de fondo inteligente</string>
+    <string name="tolerance_ratio">Relación de tolerancia</string>
+    <string name="readability">Capacidad de respuesta</string>
+</resources>

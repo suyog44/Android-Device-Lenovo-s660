@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">AALTool</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="title_activity_lcm_calibration">معايرة AAL LCM</string>
+    <string name="title_activity_als_calibration">معايرة AAL ALS</string>
+    <string name="title_activity_tuning">توليف AAL</string>
+    <string name="power">PowerSaving</string>
+    <string name="luminance">الإضاءة</string>
+    <string name="lux">Lux</string>
+    <string name="save">حفظ</string>
+    <string name="clear">"محو"</string>
+    <string name="brightness">السطوع</string>
+    <string name="darkening_speed">سرعة التعتيم</string>
+    <string name="brightening_speed">سرعة التفتيح</string>
+    <string name="smartbacklight">الإضاءة الخلفية الذكية</string>
+    <string name="tolerance_ratio">نسبة التفاوت</string>
+    <string name="readability">قابلية القراءة</string>
+</resources>
